@@ -10,8 +10,3 @@ doc/api/
 
 # Passwords file
 config/passwords.yaml
-
-*.xcodeproj/*
-!*.xcodeproj/project.pbxproj
-!*.xcodeproj/xcshareddata/
-!*.xcworkspace/contents.xcworkspacedata
